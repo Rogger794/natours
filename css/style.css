@@ -151,7 +151,7 @@ body {
   content: "";
   display: inline-block;
   height: 100%;
-  widows: 100%;
+  width: 100%;
   border-radius: 10rem;
   position: absolute;
   top: 0;
